@@ -1,6 +1,3 @@
-Bilkul boss. Neeche **complete `README.md` content ek hi code block mein** hai. Isay **direct copy karke GitHub ke `README.md` mein paste** kar do.
-
-````markdown
 # Week 9 - Data Pipeline
 
 ## Automated Sentiment Analysis Pipeline
