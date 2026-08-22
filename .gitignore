@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Airflow
+airflow.cfg
+airflow.db
+logs/
+webserver_config.py
+__pycache__/
+
+# Environment
+.env
+
+# Generated files
+output/*.txt
+output/*.csv
+
+# Model files
+# Uncomment if models should not be committed
+# models/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
